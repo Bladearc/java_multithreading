@@ -7,7 +7,6 @@ import java.util.concurrent.Semaphore;
 
 /**
  * Semaphores for Resource Limiting
- *
  *     Description: Use a Semaphore to limit concurrent access to a simulated resource.
  *     Key Concept: Controlling access to a finite resource pool.
  *     Link: Introduces a new synchronization tool while reusing the thread pool from earlier examples.

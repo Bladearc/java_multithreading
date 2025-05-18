@@ -6,7 +6,6 @@ import java.util.concurrent.Executors;
 
 /**
  * CountDownLatch for Synchronization
- *
  *     Description: Use CountDownLatch to wait for multiple tasks to complete before proceeding.
  *     Key Concept: One-time synchronization of thread completion.
  *     Link: Combines thread pools with latch-based coordination, building on earlier examples.
